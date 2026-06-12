@@ -1,0 +1,104 @@
+{
+  "tree": [
+    {
+      "type": "folder",
+      "name": "Css",
+      "slug": "css",
+      "children": [
+        {
+          "type": "page",
+          "name": "Flexbox",
+          "slug": "css/flexbox",
+          "file": "css/flexbox.md"
+        },
+        {
+          "type": "page",
+          "name": "Grid",
+          "slug": "css/grid",
+          "file": "css/grid.md"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Getting Started",
+      "slug": "getting-started",
+      "children": [
+        {
+          "type": "page",
+          "name": "Introduction",
+          "slug": "getting-started/introduction",
+          "file": "getting-started/introduction.md"
+        },
+        {
+          "type": "page",
+          "name": "Setup",
+          "slug": "getting-started/setup",
+          "file": "getting-started/setup.md"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Javascript",
+      "slug": "javascript",
+      "children": [
+        {
+          "type": "folder",
+          "name": "Async Patterns",
+          "slug": "javascript/async-patterns",
+          "children": [
+            {
+              "type": "page",
+              "name": "Async Await",
+              "slug": "javascript/async-patterns/async-await",
+              "file": "javascript/async-patterns/async-await.md"
+            },
+            {
+              "type": "page",
+              "name": "Promises",
+              "slug": "javascript/async-patterns/promises",
+              "file": "javascript/async-patterns/promises.md"
+            }
+          ]
+        },
+        {
+          "type": "page",
+          "name": "Fundamentals",
+          "slug": "javascript/fundamentals",
+          "file": "javascript/fundamentals.md"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "slug": "css/flexbox",
+      "name": "Flexbox"
+    },
+    {
+      "slug": "css/grid",
+      "name": "Grid"
+    },
+    {
+      "slug": "getting-started/introduction",
+      "name": "Introduction"
+    },
+    {
+      "slug": "getting-started/setup",
+      "name": "Setup"
+    },
+    {
+      "slug": "javascript/async-patterns/async-await",
+      "name": "Async Await"
+    },
+    {
+      "slug": "javascript/async-patterns/promises",
+      "name": "Promises"
+    },
+    {
+      "slug": "javascript/fundamentals",
+      "name": "Fundamentals"
+    }
+  ]
+}
